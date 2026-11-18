@@ -4,7 +4,7 @@ Verwijdert de zang uit een nummer en bewaart alleen de muziek (AI-model Demucs, 
 
 ## Installeren
 ```bash
-cd "Vocal remover Linux"
+cd "Musicvocalremover"
 chmod +x install.sh run.sh
 ./install.sh
 ```
